@@ -1,0 +1,27 @@
+{
+    "name": "MagniBee",
+    "version": "1.0.0",
+    "description": "To enhance the reading experience",
+    "manifest_version": 2,
+    "background":{
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "content_scripts":[
+        {
+            "js": ["content.js"],
+            "matches": ["https://*/*"]
+        }
+    ],
+    "icons":{
+        "16":"icon.png",
+        "48":"icon.png",
+        "128":"icon.png"
+    },
+    "browser_action":{
+        "default_title":"bee~",
+        "default_popup":"popup.html"
+    }
+    
+
+}
