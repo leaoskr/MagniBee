@@ -15,6 +15,9 @@
   2. Copy the text into the searchbar
   3. Use the slide bar to adjust the wanted font size
   4. Click 'Magnify' button to enlarge the selected text
+
+  ## Walkthrough
+  <img src = "http://g.recordit.co/rzOwLKmOid.gif"> <br>
   
   ## Feature in Planning
   - [x] Change the font size of the selected text
