@@ -5,6 +5,8 @@ window.onload = () => {
    button.id = "searchButton";
    button.textContent = "Magnify"
 
+   button.style["background-color"] = "#b0da9b";
+
    const searchbar = document.createElement('input');
    searchbar.id = "searchbar";
    
@@ -44,7 +46,7 @@ function magnifyText(){
     z = "pt;'>$&</p >";
 
     if(input !== ""){
-            let regExp = new RegExp( input , "gi")
+            let regExp = new RegExp(input , "gi")
             p.innerHTML = (p.textContent).replace(regExp, y+x+z);
     }
 }
