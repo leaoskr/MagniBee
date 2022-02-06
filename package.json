@@ -11,5 +11,6 @@
   "dependencies": {
     "@types/chrome": "^0.0.178",
     "types": "^0.1.1"
-  }
+  },
+  "type": "module"
 }
