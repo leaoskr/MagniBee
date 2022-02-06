@@ -1,7 +1,7 @@
 {
     "name": "MagniBee",
     "version": "1.0.0",
-    "description": "To enhance the reading experience",
+    "description": "Enhance the reading experience of webpages that has small font size",
     "manifest_version": 2,
     "background":{
         "scripts": ["background.js"],
