@@ -1,6 +1,9 @@
 # MagniBee
   A chrome extension that meant to enhance the reading experience by enlarging the font size of the webpage
   
+  ## Checkout our Homepage!
+     https://rxiong19.github.io/Magnify_el
+  
   ## Steps to Install it
   1. Download the "src.zip" and unzip it
   2. Go to chrome://extensions
