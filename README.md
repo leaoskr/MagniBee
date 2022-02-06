@@ -18,6 +18,7 @@
 
   ## Walkthrough
   <img src = "http://g.recordit.co/rzOwLKmOid.gif"> <br>
+  YouTube Video: https://www.youtube.com/watch?v=F7_meXX1MAY
   
   ## Feature in Planning
   - [x] Change the font size of the selected text
