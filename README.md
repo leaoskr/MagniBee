@@ -2,7 +2,7 @@
   A chrome extension that meant to enhance the reading experience by enlarging the font size of the webpage
   
   ## Checkout our Homepage!
-     fly.magnibee.tech
+     magnibee.tech
   
   ## Steps to Install it
   1. Download the "src.zip" and unzip it
